@@ -1,0 +1,24 @@
+{
+  "name": "html-webpack-esmodules-plugin",
+  "version": "0.1.0",
+  "description": "insert type=module/nomodule into script tag ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weiyu-Chen/html-webpack-esmodules-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "html-webpack-plugin",
+    "esmodule"
+  ],
+  "author": "weiyu.chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Weiyu-Chen/html-webpack-esmodules-plugin/issues"
+  },
+  "homepage": "https://github.com/Weiyu-Chen/html-webpack-esmodules-plugin#readme"
+}
